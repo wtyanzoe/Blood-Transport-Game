@@ -11,4 +11,4 @@ How to Play:
 3. After visiting all body organs (brain, small intestine, liver, kidney), click "Finish Journey" to review the status of the body.  
 
 Created by:  
-ZOE
+ZXE
